@@ -29,6 +29,16 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": "831e353a-94fb-4495-bfa7-c8d9c3950a9f",
+      "category": "",
+      "title": "Learning English",
+      "description": "learn english",
+      "location": "Beijing",
+      "date": "26/3/2022",
+      "time": "8AM",
+      "organizer": "Adam Jahr"
     }
   ]
 }
