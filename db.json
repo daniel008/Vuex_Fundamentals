@@ -31,34 +31,14 @@
       "organizer": "Carey Wales"
     },
     {
-      "id": "063c66e9-5ea2-4831-96be-9e4ce0e98714",
-      "category": "nature",
-      "title": "reading book",
-      "description": "reading a history book",
-      "location": "Beijing",
-      "date": "25/3/2022",
-      "time": "22:05",
-      "organizer": "Adam Jahr"
-    },
-    {
-      "id": "cf63eae7-3961-4dbf-8deb-62d1514e4e05",
-      "category": "sustainability",
-      "title": "Go Hiking",
-      "description": "Go to a mountain",
-      "location": "Beijing",
-      "date": "25/3/2022",
-      "time": "10AM",
-      "organizer": "Adam Jahr"
-    },
-    {
-      "id": "dee7ba30-ea19-43b6-91e1-30d442eb373b",
-      "category": "nature",
-      "title": "trail running",
-      "description": "go to a trail run",
+      "id": "831e353a-94fb-4495-bfa7-c8d9c3950a9f",
+      "category": "",
+      "title": "Learning English",
+      "description": "learn english",
       "location": "Beijing",
       "date": "26/3/2022",
-      "time": "9AM",
-      "organizer": "Daniel Ma"
+      "time": "8AM",
+      "organizer": "Adam Jahr"
     }
   ]
 }
